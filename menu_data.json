@@ -1,0 +1,138 @@
+[
+  {
+    "id": "cat_1",
+    "name": "المقبلات (Starters)",
+    "items": [
+      {
+        "id": "i101",
+        "name": "بروسكيتا الطماطم والريحان",
+        "price": 85,
+        "description": "خبز مقرمش محمص بالثوم، مغطى بمزيج الطماطم الطازجة، زيت الزيتون البكر والريحان.",
+        "image": "https://images.unsplash.com/photo-1572695157369-24d29ca1653d?w=500&q=80",
+        "tags": [
+          "veggie",
+          "healthy"
+        ]
+      },
+      {
+        "id": "i102",
+        "name": "داينمايت شريمب",
+        "price": 145,
+        "description": "جمبري مقلي مقرمش مغطى بصلصة الداينمايت الحارة والمنعشة.",
+        "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500&q=80",
+        "tags": [
+          "spicy",
+          "popular"
+        ],
+        "suggestedWith": [
+          "i501"
+        ]
+      },
+      {
+        "id": "i103",
+        "name": "سلطة السيزر بالدجاج",
+        "price": 110,
+        "description": "خس روماني طازج، دجاج مشوي، خبز محمص، جبنة بارميزان مع صلصة السيزر الأصلية.",
+        "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=500&q=80",
+        "tags": [
+          "healthy",
+          "popular"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat_2",
+    "name": "الأطباق الرئيسية (Main Courses)",
+    "items": [
+      {
+        "id": "i201",
+        "name": "سلمون مشوي بالأعشاب",
+        "price": 320,
+        "description": "قطعة سلمون طازجة مشوية تقدم مع خضار سوتيه وصلصة الليمون والزبدة.",
+        "image": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=500&q=80"
+      },
+      {
+        "id": "i202",
+        "name": "فتوتشيني ألفريدو",
+        "price": 165,
+        "description": "باستا فتوتشيني مع كريمة بيضاء غنية، فطر طازج وجبنة بارميزان.",
+        "image": "https://images.unsplash.com/photo-1645112481338-3569e5783383?w=500&q=80"
+      },
+      {
+        "id": "i203",
+        "name": "دجاج كوردون بلو",
+        "price": 195,
+        "description": "صدر دجاج محشو بالجبنة والتركي المدخن بخلطة مقرمشة، يقدم مع البطاطس المهروسة.",
+        "image": "https://images.unsplash.com/photo-1632778149975-400e755291df?w=500&q=80"
+      }
+    ]
+  },
+  {
+    "id": "cat_3",
+    "name": "ستيك هاوس (Steaks)",
+    "items": [
+      {
+        "id": "i301",
+        "name": "ريب آي ستيك (300 جرام)",
+        "price": 450,
+        "description": "من أجود أنواع اللحم البقري، مشوي لدرجة النضج المطلوبة، يقدم مع صوص المشروم.",
+        "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=500&q=80"
+      },
+      {
+        "id": "i302",
+        "name": "فيلي مينيون",
+        "price": 480,
+        "description": "أرقى قطع اللحم الطرية، مشوية بعناية فائقة تقدم مع بطاطس غراتان وصوص الفلفل.",
+        "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&q=80"
+      }
+    ]
+  },
+  {
+    "id": "cat_4",
+    "name": "الحلويات (Desserts)",
+    "items": [
+      {
+        "id": "i401",
+        "name": "مولتن كيك الشوكولاتة",
+        "price": 95,
+        "description": "كيك دافئ بقلب من الشوكولاتة السائلة تقدم مع آيس كريم الفانيليا.",
+        "image": "https://images.unsplash.com/photo-1624353365286-3f8d62adda51?w=500&q=80"
+      },
+      {
+        "id": "i402",
+        "name": "تشيز كيك سان سيباستيان",
+        "price": 110,
+        "description": "التشيز كيك المحروقة الشهيرة بقشرة كراميل وقوام كريمي لا يقاوم.",
+        "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
+      }
+    ]
+  },
+  {
+    "id": "cat_5",
+    "name": "المشروبات والقهوة (Drinks)",
+    "items": [
+      {
+        "id": "i501",
+        "name": "موهيتو بلو لاجون",
+        "price": 65,
+        "description": "مزيج منعش من النعناع، الليمون، صوص البلو والثلج المجروش.",
+        "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=500&q=80"
+      },
+      {
+        "id": "i502",
+        "name": "إسبانش لاتيه بارد",
+        "price": 75,
+        "description": "إسبريسو غني مع الحليب المكثف المحلى والحليب البارد.",
+        "image": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=500&q=80"
+      },
+      {
+        "id": "i503",
+        "name": "عصير برتقال فريش",
+        "price": 55,
+        "description": "عصير برتقال طازج طبيعي 100% بدون إضافات.",
+        "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500&q=80"
+      }
+    ]
+  }
+]

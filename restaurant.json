@@ -1,0 +1,31 @@
+{
+  "name": "Lumina Lounge",
+  "slogan": "تجربة عصرية لأشهى المأكولات العالمية",
+  "description": "نقدم لكم تشكيلة مختارة من أرقى الأطباق العالمية والمشروبات المتميزة في أجواء راقية تناسب تطلعاتكم.",
+  "colors": {
+    "primary": "#fbbf24",
+    "background": "#0f172a",
+    "text": "#f8fafc"
+  },
+  "contact": {
+    "whatsapp": "+201200902064",
+    "socials": {
+      "facebook": "#",
+      "instagram": "#"
+    }
+  },
+  "currency": "EGP",
+  "trust": {
+    "googleRating": 4.8,
+    "reviewCount": 1250,
+    "hygieneBadges": [
+      "ISO 22000",
+      "إدارة الغذاء والدواء"
+    ]
+  },
+  "operatingHours": {
+    "breakfast": "08:00-12:00",
+    "lunch": "12:00-18:00",
+    "dinner": "18:00-02:00"
+  }
+}
